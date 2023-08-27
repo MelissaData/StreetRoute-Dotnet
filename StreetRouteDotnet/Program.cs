@@ -6,7 +6,7 @@ namespace StreetRouteDotnet
   {
     static void Main(string[] args)
     {
-      string baseServiceUrl = @"http://streetroute.melissadata.net/";
+      string baseServiceUrl = @"https://streetroute.melissadata.net/";
       string serviceEndpoint = @"v1/WEB/StreetRoute/getDistance";
       string license = "";
       string startLat = "";
