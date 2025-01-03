@@ -7,7 +7,7 @@ Please feel free to copy or embed this code to your own project. Happy coding!
 
 For the latest Melissa Street Route release notes, please visit: https://releasenotes.melissa.com/cloud-api/street-route/
 
-For further documentation, please visit: https://wiki.melissadata.com/index.php?title=Street_Route_Cloud_API
+For further documentation, please visit: https://docs.melissa.com/cloud-api/street-route/street-route-index.html
 
 The console will ask the user for:
 
@@ -159,7 +159,7 @@ This is the expected output from a successful setup for interactive mode:
 ![alt text](/screenshots/output2.png)
 
 ## Result Codes
-For details about the result codes please refer to https://wiki.melissadata.com/index.php?title=Result_Code_Details#Street_Route_Cloud_API
+For details about the result codes please refer to https://docs.melissa.com/melissa/result-codes/result-codes-index.html
 
 ## Contact Us
 For free technical support, please call us at 800-MELISSA ext. 4 (800-635-4772 ext. 4) or email us at tech@melissa.com.
